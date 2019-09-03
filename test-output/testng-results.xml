@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38112" started-at="2019-09-03T15:57:45 SGT" finished-at="2019-09-03T15:58:23 SGT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38112" started-at="2019-09-03T15:57:45 SGT" finished-at="2019-09-03T15:58:23 SGT">
+      <class name="extent_report.ExtentReport">
+        <test-method status="PASS" signature="setup()[pri:0, instance:extent_report.ExtentReport@5d0bf09b]" name="setup" is-config="true" duration-ms="96" started-at="2019-09-03T15:57:45 SGT" finished-at="2019-09-03T15:57:45 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="firststep()[pri:0, instance:extent_report.ExtentReport@5d0bf09b]" name="firststep" is-config="true" duration-ms="19271" started-at="2019-09-03T15:57:45 SGT" finished-at="2019-09-03T15:58:04 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firststep -->
+        <test-method status="PASS" signature="Test_Checklist_03()[pri:0, instance:extent_report.ExtentReport@5d0bf09b]" name="Test_Checklist_03" duration-ms="10369" started-at="2019-09-03T15:58:04 SGT" finished-at="2019-09-03T15:58:15 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Checklist_03 -->
+        <test-method status="PASS" signature="firststep()[pri:0, instance:extent_report.ExtentReport@5d0bf09b]" name="firststep" is-config="true" duration-ms="1390" started-at="2019-09-03T15:58:15 SGT" finished-at="2019-09-03T15:58:16 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firststep -->
+        <test-method status="PASS" signature="Test_Checklist_19()[pri:0, instance:extent_report.ExtentReport@5d0bf09b]" name="Test_Checklist_19" duration-ms="3596" started-at="2019-09-03T15:58:16 SGT" finished-at="2019-09-03T15:58:20 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Checklist_19 -->
+        <test-method status="PASS" signature="firststep()[pri:0, instance:extent_report.ExtentReport@5d0bf09b]" name="firststep" is-config="true" duration-ms="1319" started-at="2019-09-03T15:58:20 SGT" finished-at="2019-09-03T15:58:21 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firststep -->
+        <test-method status="PASS" signature="Test_Checklist_20()[pri:0, instance:extent_report.ExtentReport@5d0bf09b]" name="Test_Checklist_20" duration-ms="2134" started-at="2019-09-03T15:58:21 SGT" finished-at="2019-09-03T15:58:23 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Checklist_20 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:extent_report.ExtentReport@5d0bf09b]" name="end" is-config="true" duration-ms="1517" started-at="2019-09-03T15:58:23 SGT" finished-at="2019-09-03T15:58:25 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- extent_report.ExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
